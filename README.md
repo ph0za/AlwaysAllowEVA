@@ -7,5 +7,6 @@ Use with caution: the physics gets upset if you EVA inside a closed fairing or i
 Always backup and quicksave your games.
 
 # INSTALLATION
+Harmony V2 is a dependency. It is bundled with the AlwaysAllowEVA zip file.
 Copy the contents of the GameData folder in this zip file into the GameData folder for KSP, located at
 C:\Program Files (x86)\Steam\steamapps\common\Kerbal Space Program\GameData
